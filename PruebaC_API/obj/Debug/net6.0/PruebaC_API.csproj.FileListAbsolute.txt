@@ -1,0 +1,7 @@
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.csproj.AssemblyReference.cache
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.AssemblyInfoInputs.cache
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.AssemblyInfo.cs
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.csproj.CoreCompileInputs.cache
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tsa-l03021260\Desktop\Pruebas C\PruebaC\PruebaC_API\obj\Debug\net6.0\PruebaC_API.MvcApplicationPartsAssemblyInfo.cache
